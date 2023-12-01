@@ -143,7 +143,7 @@ export const aboutYou = {
     "👋 Hi, Amet consetetur labore iriure ut voluptua sed no aliquam sed lorem dolores..",
   yearsOfExperience: "x years",
   location: "Your Place",
-  email: "johndor@mail",
+  email: "johndoe@mail",
 };
 
 export const logoText = "@yourname";
