@@ -20,7 +20,7 @@
     "class-variance-authority": "^0.7.0",
     "eslint": "8.48.0",
     "eslint-config-next": "13.4.19",
-    "lucide-react": "^0.269.0",
+    "lucide-react": "^0.312.0",
     "next": "14.0.3",
     "next-themes": "^0.2.1",
     "postcss": "8.4.28",
